@@ -2,7 +2,6 @@ package com.PanCalka.converters;
 
 import com.PanCalka.commands.RecipeCommand;
 import com.PanCalka.domain.*;
-import guru.springframework.domain.*;
 import org.junit.Before;
 import org.junit.Test;
 
